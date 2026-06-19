@@ -1,0 +1,15 @@
+We are looking for a Machine Learning Engineer.
+
+Requirements:
+- Python
+- SQL
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- Docker
+- AWS
+- Git
+- Linux
+
+Responsibilities:
+Develop AI models and deploy them on cloud infrastructure.
